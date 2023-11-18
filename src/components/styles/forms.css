@@ -3,6 +3,7 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   form {
@@ -10,6 +11,7 @@
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   label {
@@ -39,4 +41,13 @@
   button:hover {
     background-color: #45a049;
   }
+
+
+.dropdowns {
+  margin-top: auto;
+}
+.select {
+  margin-top: 10px;
+
+}
   
